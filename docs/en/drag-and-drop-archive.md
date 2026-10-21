@@ -242,12 +242,30 @@ These mods are not included by default, but are easy to install ontop of the arc
 
 === "1.2.0.59"
     !!! info "Latest version"
+        - XX.10.2026
+            - Dashii's updates:
+                - Added Johnny's Hand Seams Fix, Vehicle Audio Bug Fix, Clothing Props Fix Overhaul, Drive-By Pre-Aim, Niko's Appearance Overhaul, Redone Fingerless Gloves, Better Tree LODs, DLSS-IV + Better Cables Addon, Eugene Reaper and Triad 1 Fix, Johnny K pants fix, Better Procedural Grass, Restored Hove Beach Telegraph Pole and Trees, No Way on The Subway Continuity Fix, and Sensible Rival Cars and No Rubber banding.
+                - Updated Johnny K Eye Color V, Remove Luis Texture Compression (Greening), Restored Vegetation, FusionFix, and Various Fixes.
+                - Corrects the mipmaps for Characters Fixes' EFLC Niko's cutscene hand and in-game hair textures. 
+                - Restores the alpha maps for Niko's head diffuse textures across the base game and the episodes.
+                - Re-added Grass and Procedural Prop Fixes since it is more stable now.
+                - [Faithful Vanilla] *Fixed Project Thunder's No Lightning & No Thunder Sounds bug.
+                - Added Miscellaneous LOD Fixes to Various Fixes.
+                - Added gooberboiuwu's glock UV map fix to minor mods.
+                - Added Mitch The Cop TLAD Model to Character Fixes.
+            - Pingwinek1234's updates:
+                - Moved 'Restored Hove Beach Telegraph Pole and Trees' by Entitled Little Prick to MinorMods.img and removed brook_s.img. (so it won't conflict with Various Fixes)
+                - Removed 'Yes Way on The Subway' mod by ServalEd, so it won't conflict with No Way on The Subway Continuity Fix by nipahtard mod.
+                - Added Beta Bank of Liberty Compatibility Patch for Eugene Reaper and Triad 1 Fix mod.
+                - Optimized Jim Fitzgerald's textures in CharacterFixes.IV.img.
+                - Added 'DELAYED_IDE' to gta.dat so it won't break the savegames and stuff.
+                - Added Jim Fitzgerald's walkstyle from 'Story Characters Variety Animations' mod by f_y_street_02 to newchar.ide.
+    ??? quote "Old changes"
         - 15.09.2026
             - Updated Various Fixes, Xbox Rain Droplets, Higher Resolution Miscellaneous Pack
             - Pingwinek1234's updates:
                 - Updated Player Outfit Texture Fixes with a few more fixes, and applied the fixes to Characters Fixes
                 - Added Remove Luis Texture Compression, Story Characters Variety Animations
-    ??? quote "Old changes"
         - 24.08.2026 (hotfix)
             - Removed Grass and Procedural Props Fix due to causing crashes; moved to Additional Mods
             - Hotfix by Pingwinek1234:
@@ -507,13 +525,30 @@ These mods are not included by default, but are easy to install ontop of the arc
             - Created the archive.
 === "1.0.8.0"
     !!! info "Latest version"
+        - XX.10.2026
+            - Dashii's updates:
+                - Added Johnny's Hand Seams Fix, Vehicle Audio Bug Fix, Clothing Props Fix Overhaul, Drive-By Pre-Aim, Niko's Appearance Overhaul, Redone Fingerless Gloves, Better Tree LODs, DLSS-IV + Better Cables Addon, Eugene Reaper and Triad 1 Fix, Johnny K pants fix, Better Procedural Grass, Restored Hove Beach Telegraph Pole and Trees, No Way on The Subway Continuity Fix, and Sensible Rival Cars and No Rubber banding.
+                - Updated Johnny K Eye Color V, Remove Luis Texture Compression (Greening), Restored Vegetation, FusionFix, and Various Fixes.
+                - Corrects the mipmaps for Characters Fixes' EFLC Niko's cutscene hand and in-game hair textures. 
+                - Restores the alpha maps for Niko's head diffuse textures across the base game and the episodes.
+                - Re-added Grass and Procedural Prop Fixes since it is more stable now.
+                - Added Miscellaneous LOD Fixes to Various Fixes.
+                - Added gooberboiuwu's glock UV map fix to minor mods.
+                - Added Mitch The Cop TLAD Model to Character Fixes.
+            - Pingwinek1234's updates:
+                - Moved 'Restored Hove Beach Telegraph Pole and Trees' by Entitled Little Prick to MinorMods.img and removed brook_s.img. (so it won't conflict with Various Fixes)
+                - Removed 'Yes Way on The Subway' mod by ServalEd, so it won't conflict with No Way on The Subway Continuity Fix by nipahtard mod.
+                - Added Beta Bank of Liberty Compatibility Patch for Eugene Reaper and Triad 1 Fix mod.
+                - Optimized Jim Fitzgerald's textures in CharacterFixes.IV.img.
+                - Added 'DELAYED_IDE' to gta.dat so it won't break the savegames and stuff.
+                - Added Jim Fitzgerald's walkstyle from 'Story Characters Variety Animations' mod by f_y_street_02 to newchar.ide.
+    ??? quote "Old changes"
          - 15.09.2026
             - Updated Various Fixes, Xbox Rain Droplets, Higher Resolution Miscellaneous Pack, Liberty Tweaks
             - Disabled Street Racing in Liberty Tweaks due to spawning random cars on the street
             - Pingwinek1234's updates:
                 - Updated Player Outfit Texture Fixes with a few more fixes, and applied the fixes to Characters Fixes
                 - Added Remove Luis Texture Compression, Story Characters Variety Animations
-    ??? quote "Old changes"
         - 24.08.2026 (hotfix)
             - Removed Grass and Procedural Props Fix due to causing crashes; moved to Additional Mods
             - Hotfix by Pingwinek1234:
